@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-color: aquamarine;
+}
+.login-container{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: azure;
+    padding: 10px;
+}
+input,button{
+    width: 100%;
+    margin: 5px 0px;
+    padding: 10px;
+}
+button{
+    background-color: rgb(201, 60, 60);
+    color: white;
+}
+h4,a{
+    text-align: center;
+}
+.adiv{
+    text-align: center;
+    padding: 10px;
+}
